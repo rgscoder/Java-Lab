@@ -113,3 +113,4 @@ class Hamster {
   
   // Have Timmy exercise twice
   timmy.exercise(2);
+  console.log(timmy)
